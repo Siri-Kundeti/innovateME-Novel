@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .navbar-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-around;
+  }
+  
+  .nav-item {
+    display: inline-block;
+    margin-right: 10px;
+    
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+    text-align: center;
+  }
+  
+  .nav-link:hover {
+    color: #ccc;
+  }
+  
